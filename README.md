@@ -38,8 +38,7 @@ A full-featured **CRUD (Create, Read, Update, Delete)** application built with *
   
 - **Tools & Utilities**:
   - [Nodemon](https://nodemon.io/) - Automatically restarts the server on changes during development.
-  - [dotenv](https://www.npmjs.com/package/dotenv) - Loads environment variables from `.env` file.
-  - [Postman](https://www.postman.com/) or [Insomnia](https://insomnia.rest/) - For testing API endpoints.
+  - [Postman](https://www.postman.com/)  - For testing API endpoints.
 
 ---
 
