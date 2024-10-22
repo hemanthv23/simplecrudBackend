@@ -56,5 +56,5 @@ Ensure you have the following installed:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/crud-nodejs-express-mongodb.git
-   cd crud-nodejs-express-mongodb](https://github.com/hemanthv23/simplecrudBackend.git)
+   git clone https://github.com/hemanthv23/simplecrudBackend.git
+   cd simplecrudBackend
