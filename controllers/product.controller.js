@@ -34,6 +34,7 @@ const createProduct = async (req, res) => {
   }
 };
 
+//Update
 const updateProduct = async (req, res) => {
   try {
     const { id } = req.params;
@@ -48,6 +49,7 @@ const updateProduct = async (req, res) => {
   }
 };
 
+//Delete
 const deleteProduct = async (req, res) => {
   try {
     const { id } = req.params;
